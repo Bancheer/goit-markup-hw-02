@@ -235,5 +235,9 @@ ul {
   line-height: 1.5;
   margin: 0;
 }
+address {
+  font-style: normal; 
+}
+
 
 /* C3: без !important — не используем */
